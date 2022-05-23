@@ -1,0 +1,11 @@
+C:\Users\viral\source\repos\qca\qca\bin\Debug\netcoreapp2.1\qca.deps.json
+C:\Users\viral\source\repos\qca\qca\bin\Debug\netcoreapp2.1\qca.runtimeconfig.json
+C:\Users\viral\source\repos\qca\qca\bin\Debug\netcoreapp2.1\qca.runtimeconfig.dev.json
+C:\Users\viral\source\repos\qca\qca\bin\Debug\netcoreapp2.1\qca.dll
+C:\Users\viral\source\repos\qca\qca\bin\Debug\netcoreapp2.1\qca.pdb
+C:\Users\viral\source\repos\qca\qca\obj\Debug\netcoreapp2.1\qca.csproj.CoreCompileInputs.cache
+C:\Users\viral\source\repos\qca\qca\obj\Debug\netcoreapp2.1\qca.AssemblyInfoInputs.cache
+C:\Users\viral\source\repos\qca\qca\obj\Debug\netcoreapp2.1\qca.AssemblyInfo.cs
+C:\Users\viral\source\repos\qca\qca\obj\Debug\netcoreapp2.1\qca.dll
+C:\Users\viral\source\repos\qca\qca\obj\Debug\netcoreapp2.1\qca.pdb
+C:\Users\viral\source\repos\qca\qca\obj\Debug\netcoreapp2.1\qca.csprojAssemblyReference.cache
